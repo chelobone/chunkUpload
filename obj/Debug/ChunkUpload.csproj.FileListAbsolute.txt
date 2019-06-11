@@ -1,0 +1,14 @@
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\ChunkUpload.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\ChunkUpload.pdb
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\Antlr3.Runtime.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\EntityFramework.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\System.Web.Optimization.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\System.Web.Providers.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\WebGrease.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\bin\EntityFramework.xml
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\obj\Debug\ChunkUpload.csprojResolveAssemblyReference.cache
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\obj\Debug\ChunkUpload.dll
+c:\users\sp_dev_admin\documents\visual studio 2012\Projects\API.TEST\ChunkUpload\obj\Debug\ChunkUpload.pdb

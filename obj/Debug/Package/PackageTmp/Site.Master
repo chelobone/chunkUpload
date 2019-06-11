@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ChunkUpload.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+
+    <!--<link href="Content/jqxcss/normalize.min.css" type="text/css" />
+    <link href="Content/jqxcss/jquery-ui.min.css" type="text/css" />
+    <link href="Content/jqxcss/jqx.summer.css" type="text/css" />
+    <link href="Content/jqxcss/widget.css" type="text/css" />
+    <link href="Content/jqxcss/main.css" type="text/css" />-->
+
+    <meta name="viewport" content="width=device-width" />
+     
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager runat="server">
+    </asp:ScriptManager>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        <section>
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </div>
+    </form>
+</body>
+</html>
