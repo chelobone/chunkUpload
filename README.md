@@ -25,7 +25,7 @@ Este archivo se encarga de interactuar con el servicio y sus métodos, manejando
 
 ### Prerequisitos
 
-Este proyecto, para efectos de la DEMO, utilizó algunos controls de jQWidgets [chelobone](https://www.jqwidgets.com/)
+Este proyecto, para efectos de la DEMO, utilizó algunos controles de [jQWidgets](https://www.jqwidgets.com/)
 
 Los controles utilizados fueron:
 
